@@ -33,8 +33,8 @@ const uiText = {
       identitySchool: "长安大学机械工程与智能装备学院 · 机械工程",
       focusLabel: "研究方向",
       focusValue: "具身智能 / 强化学习 / 元学习",
-      nowLabel: "当前工作",
-      nowValue: "具身智能与机器人学习",
+      nowLabel: "当前状态",
+      nowValue: "硕士推免申请中",
       locationLabel: "所在地",
       locationValue: "中国，陕西，西安"
     },
@@ -184,11 +184,11 @@ const uiText = {
       cv: "Repository",
       email: "Email",
       identityRole: "Undergraduate, EILab",
-      identitySchool: "School of Mechanical Engineering, Chang'an University",
+      identitySchool: "School of Mechanical Engineering and Intelligent Equipment, Chang'an University",
       focusLabel: "Focus",
       focusValue: "Embodied AI / RL / Meta-Learning",
-      nowLabel: "Now",
-      nowValue: "Embodied AI and Robot Learning",
+      nowLabel: "Status",
+      nowValue: "Applying for Master's Admission (Pending)",
       locationLabel: "Based In",
       locationValue: "Xi'an, Shaanxi, China"
     },
@@ -632,7 +632,7 @@ const localeData = {
     experiences: [
       {
         title: "Chang'an University (211 / Double First-Class)",
-        subtitle: "School of Mechanical Engineering · Mechanical Engineering (Transportation Construction & Intelligent Equipment) · B.E. | Sep 2023 – Jun 2027",
+        subtitle: "School of Mechanical Engineering and Intelligent Equipment · Mechanical Engineering (Transportation Construction & Intelligent Equipment) · B.E. | Sep 2023 – Jun 2027",
         detail: "GPA: 3.65/5.0 (Rank 7/59)"
       },
       {
